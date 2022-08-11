@@ -13,3 +13,7 @@ cd formationDebugging
   ```
   git checkout exercice-1
   ```
+- Exercice 2
+  ```
+  git checkout exercice-2
+  ```
