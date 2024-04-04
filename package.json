@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "react": "18.0.0",
-    "react-native": "0.69.3",
+    "react-native": "0.69.12",
     "react-native-new-arch": "file:.patch-file/react-native-new-arch"
   },
   "devDependencies": {
